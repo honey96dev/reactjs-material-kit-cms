@@ -1,0 +1,11 @@
+const config = {
+  app: {
+    name: 'Labor Matrix',
+    baseUrl: 'http://192.168.200.16:3000/',
+  },
+  server: {
+    baseUrl: 'http://192.168.200.16/',
+  },
+};
+
+export default config;
